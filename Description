@@ -1,0 +1,4 @@
+# mail-checker
+
+This is a mail-checker which checks for the vaild domain from where the mail is being send!!
+Written in Go, only by using in-built libraries!!..
